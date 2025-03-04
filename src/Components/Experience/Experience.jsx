@@ -23,7 +23,7 @@ const Experience = () => {
                 
                 <div className='text-white bg-black shadow-xl bg-opacity-30 rounded-lg p-4 md:mb-4 md:mx-6'>
                     <div className='flex gap-3 py-4 md:ml-20 md:mt-0 flex-col'>
-                        <h1 className='font-bold text-xl'>WordPress Developer</h1>
+                        <h1 className='font-bold text-xl'>Full Stack Developer</h1>
                         <p className='text-sm md:text-md leading-tight text-slate-400'>
                             NeST Digital | Aug 2022 - Aug 2023
                         </p>
@@ -38,7 +38,7 @@ const Experience = () => {
 
                 <div className='text-white bg-black shadow-xl bg-opacity-30 rounded-lg p-4 md:mb-4 md:mx-6'>
                     <div className='flex gap-3 py-4 md:ml-20 md:mt-0 flex-col'>
-                        <h1 className='font-bold text-xl'>Web Developer</h1>
+                        <h1 className='font-bold text-xl'>Full Stack Developer</h1>
                         <p className='text-sm md:text-md leading-tight text-slate-400'>
                             Singularis Software Technologies | Jul 2019 - Aug 2022
                         </p>
