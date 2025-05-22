@@ -21,17 +21,17 @@ const About = () => {
                             <IoArrowForward size={30} className="mt-1" />
                             <span className="w-96">
                                 <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                                    Web Developer
+                                    Full Stack Web Developer
                                 </h1>
                                 <p
                                     className="text-sm md:text-md leading-tight mt-1"
                                     style={{ textAlign: 'justify' }} // Inline style for justification
                                 >
-                                    I'm Reshmi H L, a Web Developer with over four years of experience in building scalable, high-performance websites. My expertise includes WordPress (Gutenberg, ACF, WPML), PHP, HTML, CSS, JavaScript (ES6+), and SEO optimization. I have a strong foundation in responsive web design, accessibility (WCAG 2.1), API integrations, and performance optimization.
+I'm Reshmi H L, a Full Stack Web Developer with over five years of experience building scalable, high-performance web applications. I specialize in technologies such as React, Angular, Node.js, Python, C#, JavaScript (ES6+), HTML5, and CSS3. I also have strong experience with WordPress (Gutenberg, ACF, WPML), RESTful APIs, and performance optimization.
 
 <br /><br />
 
-I am passionate about creating dynamic, multilingual, and user-friendly web solutions. My favorite technologies to work with include WordPress, PHP, JavaScript, and Vue.js, but I’m always eager to explore new tools and frameworks. Currently, I’m expanding my skills in headless WordPress, REST APIs, and Agile development to build more flexible and future-proof web applications.
+I'm passionate about creating responsive, accessible (WCAG 2.1), and multilingual web solutions. My development approach focuses on clean code, usability, and scalability. I’m currently deepening my expertise in headless CMS, cloud-based deployments (AWS, Azure), and Agile workflows to build future-proof and user-friendly applications.
                                 </p>
                             </span>
                         </div>
